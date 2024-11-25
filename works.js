@@ -1,5 +1,5 @@
 
-export const works = {
+ const works = {
       data: [
         {name: 'Монтаж опалубки', measurement_id: 1},
         {name: 'Устройство бетонной подготовки', measurement_id: 6},
